@@ -15,3 +15,4 @@
 //= require turbolinks
 //= require rails-ujs
 //= require_tree .
+//= require cable
