@@ -9,3 +9,11 @@
 .alert-notice {
   @extend .alert-info;
 }
+
+#messages {
+  max-height: 450px;
+  overflow-y: auto;
+  .avatar {
+    margin: 0.5rem;
+  }
+}
